@@ -21,8 +21,8 @@ module.exports = async function(req, res, next) {
         
         try {
             const result = await client.query(
-                `SELECT id, last_name, first_name, middle_name, specialty, group_name, login, password_hash, email, snils
-                 FROM students_copy
+                `SELECT id, name, specialty, group_name, login, password, email, snils
+                 FROM students
                  WHERE id = $1`,
                 [tokenData.id]
             );
