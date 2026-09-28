@@ -26,6 +26,7 @@ function CabinetData() {
   return <AppLayout />
 }
 
+
 export default function App() {
   return (
     <Routes>
