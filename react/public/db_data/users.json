@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "ivan.petrov@student.a5academy.ru",
+      "password": "Student123",
+      "firstName": "Иван",
+      "lastName": "Петров",
+      "patronymic": "Сергеевич",
+      "group": "ИС-21",
+      "specialty": "09.02.07 Информационные системы и программирование",
+      "course": 3,
+      "form": "очная",
+      "campus": "Миргородская",
+      "studentId": "20231234",
+      "phone": "+7 (911) 555-21-34",
+      "birthDate": "2006-03-14"
+    },
+    {
+      "id": 2,
+      "email": "anna.sokolova@student.a5academy.ru",
+      "password": "Student123",
+      "firstName": "Анна",
+      "lastName": "Соколова",
+      "patronymic": "Дмитриевна",
+      "group": "ГД-22",
+      "specialty": "07.02.01 Архитектура",
+      "course": 2,
+      "form": "очная",
+      "campus": "Василеостровская",
+      "studentId": "20244567",
+      "phone": "+7 (921) 440-18-90",
+      "birthDate": "2007-11-02"
+    }
+  ]
+}

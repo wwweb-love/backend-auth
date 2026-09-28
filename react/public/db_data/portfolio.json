@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "id": "p1",
+      "studentId": 1,
+      "title": "Курсовой проект: информационная система библиотеки",
+      "category": "курсовые",
+      "description": "Прототип ИС учёта книг: роли, каталог, выдача.",
+      "fileName": "kursovaya-is-biblioteka.pdf",
+      "fileType": "application/pdf",
+      "sizeKb": 1240,
+      "uploadedAt": "2026-06-12"
+    },
+    {
+      "id": "p2",
+      "studentId": 1,
+      "title": "Диплом WorldSkills — веб-разработка, региональный этап",
+      "category": "достижения",
+      "description": "Участие в компетенции «Веб-технологии», 3 место.",
+      "fileName": "worldskills-2026.jpg",
+      "fileType": "image/jpeg",
+      "sizeKb": 860,
+      "uploadedAt": "2026-04-20"
+    },
+    {
+      "id": "p3",
+      "studentId": 1,
+      "title": "Сертификат курса «Основы React»",
+      "category": "сертификаты",
+      "description": "Дополнительная программа ЦДПО.",
+      "fileName": "sertifikat-react.pdf",
+      "fileType": "application/pdf",
+      "sizeKb": 420,
+      "uploadedAt": "2026-05-30"
+    },
+    {
+      "id": "p4",
+      "studentId": 2,
+      "title": "Эскизный проект сквера у учебного корпуса",
+      "category": "проекты",
+      "description": "Концепция озеленения и навигации.",
+      "fileName": "skver-eskiz.pdf",
+      "fileType": "application/pdf",
+      "sizeKb": 2100,
+      "uploadedAt": "2026-09-01"
+    }
+  ]
+}
